@@ -1,0 +1,47 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: white;
+    background: url(assets/bg5.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: top center;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Carter One', cursive;
+    display: flex;
+    justify-content: center;
+    padding:7px;
+    text-shadow: 0 7px 30px rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    padding: 5px;
+    font-family:'Carter One', cursive;
+    text-shadow: 0 7px 30px rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+img {
+    width: 200px;
+    top: 50%;
+    left: 50%;
+    margin: 100px auto;
+    border-radius: 10px;
+    padding: 1px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
+    align-items: center;
+    font-weight: bold;
+}
